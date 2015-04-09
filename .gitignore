@@ -2,6 +2,10 @@
 ## Eclipse
 #################
 
+# AutoCAD
+*.dwl
+*.dwl2
+
 *.pydevproject
 .project
 .metadata
