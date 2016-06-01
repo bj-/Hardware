@@ -11,6 +11,7 @@ Private.
 <b>Navigator Bracket</b><br>
 For handle bar 22mm
 <img src="https://github.com/bj-/Hardware/blob/master/Navigator%20Bracket/Navigator%20Bracket.png" width="100px" />
+Designed for CNC.
 
 <b>Small side Toolbag</b><br>
 Drawing not finished. But toolbag I made :)<br>
