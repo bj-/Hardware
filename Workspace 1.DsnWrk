@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=Welding\THC\THC\THC.PrjPcb
+[Project2]
+ProjectPath=F800 Rear wire\F800 Rear wire.PrjPcb
+[Project3]
+ProjectPath=..\PCB_Projects\Power\Car Power Supply v2\Car Power Supply.PrjPcb
